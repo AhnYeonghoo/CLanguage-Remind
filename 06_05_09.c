@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main06_05_09()
 {
 	int data = 7;
 	printf("[%d] [%5d]", data, data);

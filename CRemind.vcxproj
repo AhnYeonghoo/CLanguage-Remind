@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="04_01_01.c" />
+    <ClCompile Include="05_02_01..c" />
+    <ClCompile Include="06_04_01.c" />
+    <ClCompile Include="06_05_01.c" />
+    <ClCompile Include="06_05_07.c" />
+    <ClCompile Include="06_05_09.c" />
     <ClCompile Include="Exam.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

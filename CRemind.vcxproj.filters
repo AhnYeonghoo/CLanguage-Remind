@@ -21,5 +21,20 @@
     <ClCompile Include="04_01_01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="05_02_01..c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_04_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_05_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_05_07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_05_09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

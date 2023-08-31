@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main_04_01_01()
 {
 	int money;
 	money = 3000;

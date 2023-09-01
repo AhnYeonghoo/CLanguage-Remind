@@ -54,5 +54,14 @@
     <ClCompile Include="12_02_04.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12_03_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12_03_02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_02_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -6,5 +6,6 @@ void main()
 	short* ptr;
 	ptr = &birthday;
 	// ?
+	// ??
 	printf("birthday�� �ּҴ� %p�Դϴ�.", ptr);
 }

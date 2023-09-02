@@ -142,7 +142,13 @@
     <ClCompile Include="12_03_01.c" />
     <ClCompile Include="12_03_02.c" />
     <ClCompile Include="13_02_01.c" />
+    <ClCompile Include="Arrays.cpp" />
+    <ClCompile Include="branching.cpp" />
+    <ClCompile Include="Chapter5_12.cpp" />
+    <ClCompile Include="ConsoleIO.cpp" />
+    <ClCompile Include="Datatype.cpp" />
     <ClCompile Include="Exam.c" />
+    <ClCompile Include="Excercise.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

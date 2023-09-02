@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main13_02_01()
 {
 	short birthday;
 	short* ptr;

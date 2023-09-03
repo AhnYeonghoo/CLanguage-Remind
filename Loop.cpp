@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int mainLoop()
 {
 	// For 기본 예제
 	for (int i{ 0 }; i < 10; i++)
@@ -65,10 +65,13 @@ int main()
 	int myArray[]{ 1,2,3,4,5,4,3,1,2 };
 	for (int i = 0; i < sizeof(myArray) / sizeof(int); i++)
 	{
-		if (myArray[i] < myArray[i + 1])
+		if (myArray[i] > myArray[i + 1])
 		{
-			cout << myArray[i] << " ";
+			continue;
 		}
+		cout << myArray[i] << " ";
 	}
 	cout << endl;
+
+	return 0;
 }
